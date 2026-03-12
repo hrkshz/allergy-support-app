@@ -4,7 +4,7 @@
 
 ## この資料の役割
 
-この資料は、このプロダクトを**最初に読むための主資料**です。
+この資料は、このプロダクトの**全体像を説明する資料**です。
 
 読めば次の3つがわかるようにしています。
 
@@ -12,7 +12,7 @@
 - どういう流れで使い、裏側で何が起きるのか
 - なぜ今回は `OpenAI API + Supabase` を選ぶのか
 
-細かい判定ロジックは [`allergen-detection-logic.md`](/home/hirok/work/allergy-support-app/docs/allergen-detection-logic.md) に分けています。
+細かい判定ロジックは [`allergen-detection-logic.md`](./allergen-detection-logic.md) に分けています。
 
 ---
 

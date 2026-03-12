@@ -4,7 +4,7 @@
 
 ## この資料の役割
 
-この資料は、主資料の [`portfolio-system-overview.md`](/home/hirok/work/allergy-support-app/docs/portfolio-system-overview.md) を読んだあとに、**判定の中身だけをもう少し具体的に知りたいときに見る補助資料**です。
+この資料は、[`portfolio-system-overview.md`](./portfolio-system-overview.md) を補う、**判定ロジックに絞った補助資料**です。
 
 ここでは、細かい比較検討ではなく、
 
